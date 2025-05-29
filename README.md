@@ -50,7 +50,7 @@ Run the Application
 Start the backend server:npm start
 
 
-Open index.html in a browser. If using a local development server (e.g., VS Code Live Server), ensure it runs on http://127.0.0.1:5500 to match the CORS configuration in server.js.
+Open index.html in a browser. If using a local development server (e.g., VS Code Live Server), ensure it runs to match the CORS configuration in server.js.
 
 
 
